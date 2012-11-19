@@ -1,0 +1,7 @@
+name = "Comment Node Block"
+description = "Add comments regarding nodes As a Block"
+core = 6.x
+files[] = infinity.module
+files[] = infinity.install
+; files[] = infinity.form
+; files[] = infinity.csv
